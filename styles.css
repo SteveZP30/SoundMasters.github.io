@@ -339,22 +339,28 @@ footer {
 
 .btnSubir {
     position: fixed;
-    bottom: 30px;
-    right: -470px;
-    padding: 9px 15px;
-    font-size: 17px;
-    border: none;
-    border-radius: 50%;
-
+    bottom: 40px;
+    right: -360px;
+    padding: 1px 1px;
+    font-size: 1px;
+    border-radius: 100px;
+    width: 400px;
+    height: 0 auto;
+    background-color: #999898;
     color: rgb(0, 0, 0);
     cursor: pointer;
     /*display: none;*/
-    transition: opacity 0.3s ease;
 
 }
 
-.btnSubir img {
+.mod img {
     width: 9%;
     max-height: 0 auto;
 
+
+
+}
+
+.btnSubir:hover {
+    background-color: #333;
 }
