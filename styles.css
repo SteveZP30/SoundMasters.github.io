@@ -236,17 +236,18 @@ Ahora vamos a modificar y dar forma a la parte de los productos (Audifonos).
     color: #333;
 }
 
-.audifonos-card button {
+.audifonos-card a {
     margin: 1rem;
-    padding: 0.5rem 1rem;
+    padding: 0.2rem 1rem;
     background-color: #333;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    text-decoration: none;
 }
 
-.audifonos-card button:hover {
+.audifonos-card a:hover {
 
     background-color: #131313;
 
