@@ -214,7 +214,7 @@ Ahora vamos a modificar y dar forma a la parte de los productos (Audifonos).
 (modifica las imagenes como tal)*/
 .audifonos-card img {
     /*width: 50%;*/
-    width: 160px;
+    width: 178px;
     height: 200px;
     object-fit: cover;
     margin: 80px 80px;
@@ -356,8 +356,6 @@ footer {
 .mod img {
     width: 9%;
     max-height: 0 auto;
-
-
 
 }
 
