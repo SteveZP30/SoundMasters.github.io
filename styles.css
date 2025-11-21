@@ -334,3 +334,27 @@ footer {
     }
 
 }
+
+/* esta parte es para el boton de subir*/
+
+.btnSubir {
+    position: fixed;
+    bottom: 30px;
+    right: -470px;
+    padding: 9px 15px;
+    font-size: 17px;
+    border: none;
+    border-radius: 50%;
+
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    /*display: none;*/
+    transition: opacity 0.3s ease;
+
+}
+
+.btnSubir img {
+    width: 9%;
+    max-height: 0 auto;
+
+}
