@@ -207,6 +207,7 @@ Ahora vamos a modificar y dar forma a la parte de los productos (Audifonos).
     overflow: hidden;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 
+
 }
 
 /*Esta parte corresponde al estilo de las tarjetas de los audifonos y su centrado 
@@ -232,13 +233,13 @@ Ahora vamos a modificar y dar forma a la parte de los productos (Audifonos).
 }
 
 .descripcion {
-    padding: 1rem 1rem;
+    padding: 2rem 1.5rem;
     color: #333;
 }
 
 .audifonos-card a {
     margin: 1rem;
-    padding: 0.2rem 1rem;
+    padding: 0.25rem 1rem;
     background-color: #333;
     color: white;
     border: none;
